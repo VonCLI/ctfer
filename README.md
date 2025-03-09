@@ -15,3 +15,4 @@ Be root or sudo is required for nmap advanced features. Verify manually the pack
 
 - Enter your favorite nmap command without quotes. Example: -n -sS
 
+Same for the C version to compile except the scheme is not needed, nor the requirements.
